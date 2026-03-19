@@ -43,32 +43,23 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="1064" height="642" alt="image" src="https://github.com/user-attachments/assets/4b433ac3-30b4-4c98-a320-988e32ea11f5" />
 
----
 
 ## CONNECTION DIAGRAM  
 **Setting up an Analog Link**
-
-*(Insert connection diagram here)*
-
----
-
 ## TABULATION  
-**Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
-
----
+<img width="1118" height="696" alt="image" src="https://github.com/user-attachments/assets/e9941e2c-dfdd-49d5-9d72-64c47a5daeaf" />
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="751" height="367" alt="image" src="https://github.com/user-attachments/assets/8abd77e4-cf2c-46b8-92b0-bd4ce0a6c06c" />
 
----
+# Output:
+
+<img width="1097" height="704" alt="image" src="https://github.com/user-attachments/assets/1e21ce80-b7b2-4999-b0f4-4bdba8e96612" />
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the relationship between input and received output signal from 660nm fibre optic cable using analog link is analyzed
